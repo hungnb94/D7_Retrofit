@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D7_Retrofit</string>
+    <string name="title_enter_post">Enter Post</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_body">Body</string>
+    <string name="action_submit">Submit</string>
+</resources>
